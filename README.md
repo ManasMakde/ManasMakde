@@ -20,8 +20,8 @@
 
 ## ☎️ Contact
 
-[![Blog](https://img.shields.io/badge/🌐-Blog--website-green)](https://manasmakde.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manas--makde-0A66C2?'logo=linkedin)](https://linkedin.com/in/manas-makde)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-manas--r--makde-F58025?logo=stackoverflow)](https://stackoverflow.com/users/22302305/manas-r-makde)
-[![Instagram](https://img.shields.io/badge/Instagram-manas__makde-E4405F?logo=instagram)](https://instagram.com/manas_makde)
-[![Email](https://img.shields.io/badge/Email-manasmakde@gmail.com-D14836?logo=gmail)](mailto:manasmakde@gmail.com)
+[![Blog](https://img.shields.io/badge/🌐-Blog-green)](https://manasmakde.github.io/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22302305/manas-r-makde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/manas-makde)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/manas_makde)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manasmakde@gmail.com)
