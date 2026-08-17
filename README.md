@@ -9,13 +9,12 @@
 ## 📌 Projects
 
 1. <img src="pfp.png" height="18" /> [Ben 10: Perplexaquest](https://manas-makde.itch.io/ben-10-perplexaquest) - Platformer game where you can harness the power of the omnitrix.
-2. 📋 [SourceSnippet](https://sourcesnippet.com/) - A no fluff website with reusable code segments. 
-3. 🌐 [host-mdx](https://www.npmjs.com/package/host-mdx) - Converts & hosts your mdx files as a static website.
+2. 🎭 [Act Pattern](https://github.com/ManasMakde/act) - A programming pattern for creating and managing complex parallel behaviors.
 4. 🖼️ [Sprite Sheet Maker](https://extensions.blender.org/add-ons/sprite-sheet-maker/) - Convert your 3D animations into sprite sheets.
 5. 🦴 [Root Maker](https://extensions.blender.org/add-ons/root-maker/) - Add a root bone to your existing characters.
+3. 🌐 [host-mdx](https://www.npmjs.com/package/host-mdx) - Converts & hosts your mdx files as a static website.
 6. 📅 [Deadsimple Calendar](https://www.npmjs.com/package/react-native-deadsimple-calendar) - Calendar widget npm package for react native.
 7. 🕵️ [Virtual Bulletin Board](https://virtual-bulletin-board.netlify.app/) - Detective board but online.
-8. 🧹 [Unity Doc Title Cleaner](https://github.com/ManasMakde/Unity-Docs-Title-Cleaner) - Removes prefixes from title of Unity doc pages.
 
 
 ## ☎️ Contact
